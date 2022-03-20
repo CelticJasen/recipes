@@ -1,0 +1,13 @@
+.heading{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: auto;
+}
